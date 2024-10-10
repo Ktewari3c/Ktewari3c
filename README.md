@@ -6,11 +6,5 @@
 
 Let’s build something amazing together! ✨
 
-<img align="left" height="500" width="1024" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ig__kushal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__kushal99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kushaltewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushaltewari" height="30" width="40" /></a>
-</p>
+![Giphy GIF]([https://media.giphy.com/media/your-giphy-id-here/giphy.gif](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif))
 
