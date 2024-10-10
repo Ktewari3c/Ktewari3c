@@ -7,7 +7,7 @@
 
 Let’s build something amazing together! ✨
 
-<img align="left" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
-<img align="right" width="500" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align="left" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
+<img align="right" width="450" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 
