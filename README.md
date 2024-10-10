@@ -6,5 +6,5 @@
 
 Let’s build something amazing together! ✨
 
-<img align="left" height="500" width="1024" src="https://media.giphy.com/media/your-giphy-id-here/giphy.gif" alt="coding"/>
+<img align="left" width="1024" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
 
