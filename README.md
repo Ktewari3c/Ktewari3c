@@ -6,7 +6,7 @@
 
 Let’s build something amazing together! ✨
 
-<img align="left" width="1024" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
+<img align="left" height="100" width="800" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
