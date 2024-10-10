@@ -8,6 +8,6 @@
 Let’s build something amazing together! ✨
 
 <img align="left" width="50%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
-<img align="right" width="50%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+<img align="right" width="20%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
 
