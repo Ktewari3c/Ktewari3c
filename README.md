@@ -1,7 +1,8 @@
 ![logo](https://github.com/KushalTewari/KushalTewari/blob/main/2.png)
 - 👋 Hi, I’m Kushal
+- 💻 Proficient in: React, NextJS, JavaScript (ES6+), CSS3, and HTML5.
+- 🚀 Focus on: Building responsive UIs, optimizing performance, and collaborating in agile teams to deliver high-quality products.
+- 💬 Let’s talk about: Frontend development, eCommerce solutions, or anything tech!
 
-<!---
-Ktewari3c/Ktewari3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build something amazing together! ✨
+
