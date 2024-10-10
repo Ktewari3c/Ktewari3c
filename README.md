@@ -6,7 +6,7 @@
 
 Let’s build something amazing together! ✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushaltewari" alt="kushaltewari" /></a> </p>
+<p align="left" width="100"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushaltewari" alt="kushaltewari" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
 
 <h3 align="left">Connect with me:</h3>
